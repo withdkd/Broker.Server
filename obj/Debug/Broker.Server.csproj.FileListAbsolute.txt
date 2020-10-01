@@ -1,0 +1,7 @@
+C:\Users\withdkd\source\repos\Broker.Server\bin\Debug\Broker.Server.exe.config
+C:\Users\withdkd\source\repos\Broker.Server\bin\Debug\Broker.Server.exe
+C:\Users\withdkd\source\repos\Broker.Server\bin\Debug\Broker.Server.pdb
+C:\Users\withdkd\source\repos\Broker.Server\obj\Debug\Broker.Server.csprojAssemblyReference.cache
+C:\Users\withdkd\source\repos\Broker.Server\obj\Debug\Broker.Server.csproj.CoreCompileInputs.cache
+C:\Users\withdkd\source\repos\Broker.Server\obj\Debug\Broker.Server.exe
+C:\Users\withdkd\source\repos\Broker.Server\obj\Debug\Broker.Server.pdb

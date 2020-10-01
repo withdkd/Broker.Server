@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broker.Server", "Broker.Server.csproj", "{408954C4-3BC1-4C78-946A-38AE94400C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Broker", "..\Test.Broker\Test.Broker.csproj", "{5CBE3DB5-FB07-4D06-A1DB-BD94F1A531E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{408954C4-3BC1-4C78-946A-38AE94400C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408954C4-3BC1-4C78-946A-38AE94400C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408954C4-3BC1-4C78-946A-38AE94400C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408954C4-3BC1-4C78-946A-38AE94400C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBE3DB5-FB07-4D06-A1DB-BD94F1A531E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBE3DB5-FB07-4D06-A1DB-BD94F1A531E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBE3DB5-FB07-4D06-A1DB-BD94F1A531E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBE3DB5-FB07-4D06-A1DB-BD94F1A531E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19F82F56-EA25-490D-8A90-92796D3BD341}
+	EndGlobalSection
+EndGlobal
